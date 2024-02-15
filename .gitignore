@@ -3,5 +3,4 @@ latex/*.pdf
 latex/*.html
 latex/*.aux
 latex/*.log
-latex/main.tex
 Jupyter\ notebook/*.ipynb_checkpoints
